@@ -15,6 +15,7 @@ A collection of resources and information about Orlando's technology and tech st
 
 * Canvs
 * Catalyst
+* [Colab](http://colabusa.com/) - We stray away from the typical office cubical, noisy coffee shop, or distracting home office. Our goal is to promote collaboration and networking through a professional open-desk policy.
 
 ## Pitch Tech
 
