@@ -6,8 +6,9 @@ A collection of resources and information about Orlando's technology and tech st
 * [Orlando Tech Association](http://orlandotech.org/) - OTA is the leading voice and conduit for Orlando’s tech community.
 * [Orlando Devs](https://orlandodevs.com/) - Whether you love writing code or are just getting started, you are welcome here!
 
-## Grow Tech
+## Startup Tech
 
+* [StartupGrind](https://www.startupgrind.com/orlando/) - Startup Grind is the largest independent startup community, actively educating, inspiring, and connecting 1,000,000 entrepreneurs in over 200 cities. 
 * Starter Studio
 * UCF Business Incubator
 
