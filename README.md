@@ -5,6 +5,7 @@ A collection of resources and information about Orlando's technology and tech st
 
 * [Orlando Tech Association](http://orlandotech.org/) - OTA is the leading voice and conduit for Orlando’s tech community.
 * [Orlando Devs](https://orlandodevs.com/) - Whether you love writing code or are just getting started, you are welcome here!
+* [Orlando Tech & Beers](https://www.meetup.com/Orlando-Tech-and-Beer/) -  Just people talking tech, enjoying beer, and the occasional key note speaker from technologists and investors.
 
 ## Startup Tech
 
@@ -14,9 +15,10 @@ A collection of resources and information about Orlando's technology and tech st
 
 ## Co-work Tech
 
-* Canvs
+* [Canvs](https://canvs.org/) - Nonprofit coworking space for tech startups. 
 * Catalyst
 * [Colab](http://colabusa.com/) - We stray away from the typical office cubical, noisy coffee shop, or distracting home office. Our goal is to promote collaboration and networking through a professional open-desk policy.
+* [Engine Spaces/ Sbrubbles](http://sbrubbles.biz/) - A cozy, unique, professional yet affordable alternative to working from home.
 
 ## Pitch Tech
 
@@ -27,6 +29,6 @@ A collection of resources and information about Orlando's technology and tech st
 ## Learn Tech
 
 * [Code School](https://www.codeschool.com/) - The interactive learning destination for aspiring and experienced developers.
+* [The Iron Yard](https://www.theironyard.com/locations/orlando) - A programming and technology education company that offers full-time web development courses in person, online and through corporate training programs across the U.S.
 * [Pluralsight](http://www.pluralsight.com) - Code School is a Pluralsight company and its office is Pluralsight's Orlando office.
-* The Iron Yard
 * [UCF Coding Bootcamp](http://www.ce.ucf.edu/Program/5902/Ucf-Coding-Boot-Camp/)
