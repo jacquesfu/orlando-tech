@@ -30,3 +30,5 @@ A collection of resources and information about Orlando's technology and tech st
 
 * [Code School](https://www.codeschool.com/) - The interactive learning destination for aspiring and experienced developers.
 * [The Iron Yard](https://www.theironyard.com/locations/orlando) - A programming and technology education company that offers full-time web development courses in person, online and through corporate training programs across the U.S.
+* [Pluralsight](http://www.pluralsight.com) - Code School is a Pluralsight company and its office is Pluralsight's Orlando office.
+* [UCF Coding Bootcamp](http://www.ce.ucf.edu/Program/5902/Ucf-Coding-Boot-Camp/)
